@@ -44,9 +44,11 @@ body {
   list-style: none;
   gap:0.5rem;
 }
+
 #menu a {
   display:block;
 }
+
 #menu a {
   text-decoration: none;
   text-transform: uppercase;
@@ -62,7 +64,6 @@ body {
 #btnMobile {
   display: none;
 }
-
 
 section {
   width: 100%;
@@ -91,7 +92,7 @@ section {
   mix-blend-mode:luminosity;
 }
 
-#img::hover{
+#img:hover{
   animation: efeito 0.5s ease-in-out infinite;
 }
 
