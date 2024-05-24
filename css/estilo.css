@@ -47,9 +47,6 @@ header {
 
 #menu a {
   display:block;
-}
-
-#menu a {
   text-decoration: none;
   text-transform: uppercase;
   padding: 5px;
